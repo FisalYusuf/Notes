@@ -1,6 +1,6 @@
 # Notes
 
-
+Link to [Lecture Notes](comp1238.md))
 
 
 
